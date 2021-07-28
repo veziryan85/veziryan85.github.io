@@ -43,7 +43,7 @@ function PostForm ({addTask , items} ) {
                            value={valueData}
                            onChange={handleChangeData}
                     />
-                    <button className="but">сахранить</button>
+                    <button className="but">Сохранить</button>
                 </form>
             </div>
         </div>
